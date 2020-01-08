@@ -1,0 +1,4 @@
+charlotte north=san-francisco
+san-francisco west=austin
+austin east=brooklyn
+brooklyn west=austin south=charlotte
